@@ -14,4 +14,4 @@ PETE IS A FREAK
 
 
 
-![Alt text](images/ttt.png)
+![Alt text](images/images.jpg)
